@@ -19,7 +19,7 @@ driver.find_element(By.ID,"com.android.permissioncontroller:id/permission_allow_
 driver.find_element(By.ID,"com.android.permissioncontroller:id/permission_allow_button").click()
 # driver.find_element(By.ID,"com.champion.mpay:id/input_email").click()
 driver.find_element(By.ID,"com.champion.mpay:id/input_email").send_keys(*****)
-driver.find_element(By.ID,"com.champion.mpay:id/input_password").send_keys("nirmal@9033")
+driver.find_element(By.ID,"com.champion.mpay:id/input_password").send_keys("*****")
 # driver.press_keycode(66)
 driver.find_element(By.ID,"com.champion.mpay:id/btn_login").click()
 driver.find_element(AppiumBy.ID,"com.champion.mpay:id/ivClose").click()
